@@ -6,6 +6,7 @@ body {
 header {
     background-color: rgb(190, 188, 188);
     padding: 2px 0;
+    border: 1px solid red;
 }
 
 h1 {
