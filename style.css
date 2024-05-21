@@ -73,3 +73,17 @@ li {
 #emphasis {
     font-size: 0.9rem;
 }
+
+blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: center;
+    font-size: 0.9rem;
+    border-bottom: 1px solid red;
+}
+
+h4 {
+    text-align: center;
+    font-size: 1.2rem
+}
