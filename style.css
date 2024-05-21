@@ -67,4 +67,9 @@ ul {
 
 li {
     margin: 2px 48px;
+    padding: 8px 0;
+}
+
+#emphasis {
+    font-size: 0.9rem;
 }
